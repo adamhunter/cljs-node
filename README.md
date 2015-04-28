@@ -26,6 +26,11 @@ TODO: Write usage instructions here
 
 ## Development
 
+## Todo
+
+* Add https://github.com/joeferner/node-java to run the jar
+
+
 ## Contributing
 
 1. Fork it ( https://github.com/adamhunter/cljs-node/fork )

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+node test/cljs_test.js
