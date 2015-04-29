@@ -1,5 +1,5 @@
 {
-  "name": "cljs-node",
+  "name": "cljs",
   "version": "0.0.1",
   "description": "Cljs compiler for node",
   "main": "./src/cljs.js",
